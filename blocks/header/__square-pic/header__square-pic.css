@@ -1,0 +1,20 @@
+@import url(../../rotation/rotation.css);
+
+.header__square-pic {
+  height: 568px;
+  width: 568px;
+  background-color: #2F80ED;
+  position: absolute;
+  top: 64px;
+  right: 0;
+
+  -moz-transform: rotate(-15deg); /* Для Firefox */
+  -ms-transform: rotate(-15deg); /* Для IE */
+  -webkit-transform: rotate(-15deg); /* Для Safari, Chrome, iOS, Opera 15-22, Android Browser */
+  -o-transform: rotate(-15deg); /* Для Opera 11.5 */
+  transform: rotate(-15deg);
+
+  -moz-animation: rotation 20s linear infinite; /* Для Firefox */
+  -webkit-animation: rotation 20s linear infinite; /*Для Safari, Chrome, Opera, Android Browser */
+  animation: rotation 20s linear infinite;
+}

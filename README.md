@@ -12,13 +12,13 @@
 * grid-layout.
 
 Видео втроены с помощью
-'''html
-<iframe></iframe>
-'''
+'''html 
+<iframe></iframe> 
+''' 
 
  Анимации выполнены через
- '''css
- @keyframes
- '''
+ '''css 
+ @keyframes 
+ ''' 
 
  Файловая структура проекта оформлена по правилам Nested БЭМ.

@@ -10,7 +10,7 @@
   right: -210px;
   overflow: hidden;
 
-  -moz-animation: rotation 20s linear infinite; /* Для Firefox */
-  -webkit-animation: rotation 20s linear infinite; /*Для Safari, Chrome, Opera, Android Browser */
-  animation: rotation 20s linear infinite;
+  -moz-animation: kaufman__triangle 20s linear infinite; /* Для Firefox */
+  -webkit-animation: kaufman__triangle 20s linear infinite; /*Для Safari, Chrome, Opera, Android Browser */
+  animation: kaufman__triangle 20s linear infinite;
 }

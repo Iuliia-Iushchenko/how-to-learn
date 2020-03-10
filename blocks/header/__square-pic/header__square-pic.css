@@ -14,7 +14,7 @@
   -o-transform: rotate(-15deg); /* Для Opera 11.5 */
   transform: rotate(-15deg);
 
-  -moz-animation: rotation 20s linear infinite; /* Для Firefox */
-  -webkit-animation: rotation 20s linear infinite; /*Для Safari, Chrome, Opera, Android Browser */
-  animation: rotation 20s linear infinite;
+  -moz-animation: header__square-pic 20s linear infinite; /* Для Firefox */
+  -webkit-animation: header__square-pic 20s linear infinite; /*Для Safari, Chrome, Opera, Android Browser */
+  animation: header__square-pic 20s linear infinite;
 }
